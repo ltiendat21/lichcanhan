@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="action_about">Simple To Do List App</string>
+    <string name="list_name_label">Task Name</string>
+    <string name="list_name_hint">Enter your new to do list</string>
+    <string name="list_save_button">Add To List</string>
+    <string name="list_saved">Saved</string>
+</resources>
